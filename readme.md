@@ -11,6 +11,10 @@ A Django REST API for managing inventory, orders, and automated invoice generati
 - 🔄 **Retry Logic** - Automatic retry on SMTP failures (up to 3 attempts)
 - 🔐 **UUID-based IDs** - Secure, non-sequential identifiers for all resources
 
+## System Design
+
+![System Design](docs/system-design.png)
+
 ## Tech Stack
 
 - **Backend:** Django 5.x, Django REST Framework
@@ -462,7 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/tee__high) - your.email@example.com
+Ifeoluwase - [@X (f.k.a Twitter)](https://twitter.com/tee__high) - taiwoifeoluwa023@example.com
 
 Project Link: [https://github.com/TeeHigh/the-midnight-artisan](https://github.com/TeeHigh/the-midnight-artisan)
 
