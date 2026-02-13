@@ -4,12 +4,12 @@ A Django REST API for managing inventory, orders, and automated invoice generati
 
 ## Features
 
-- 📦 **Inventory Management** - Create and manage product inventory with stock tracking
-- 🛒 **Order Processing** - Create orders with automatic stock deduction
-- 📧 **Automated Invoicing** - Generate and send text-based invoices via email
-- ⚡ **Async Task Queue** - Non-blocking invoice delivery using Celery and Redis
-- 🔄 **Retry Logic** - Automatic retry on SMTP failures (up to 3 attempts)
-- 🔐 **UUID-based IDs** - Secure, non-sequential identifiers for all resources
+- **Inventory Management** - Create and manage product inventory with stock tracking
+- **Order Processing** - Create orders with automatic stock deduction
+- **Automated Invoicing** - Generate and send text-based invoices via email
+- **Async Task Queue** - Non-blocking invoice delivery using Celery and Redis
+- **Retry Logic** - Automatic retry on SMTP failures (up to 3 attempts)
+- **UUID-based IDs** - Secure, non-sequential identifiers for all resources
 
 ## System Design
 
